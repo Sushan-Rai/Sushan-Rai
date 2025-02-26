@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Hi, I'm Sushan Rai  
 
-<!--
-**Sushan-Rai/Sushan-Rai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Developer | OpenGL Enthusiast | Web & Systems Programmer**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Skills  
+- 🎮 **Game Engine Development** - OpenGL, GLFW, GLEW  
+- 🌐 **Web Development** - JavaScript, Node.js, Web Proxies, Browser Extensions  
+- ⚙️ **Low-Level Programming** - C, Data Structures, Algorithms, OS Internals  
+- 🖥️ **Computer Graphics** - Shaders, GLSL, 3D Rendering, Texturing  
+- 🔄 **System & Performance Optimization**  
+- 🛠 **Tools** - GSAP, THREE.js, MATLAB/Octave, Git, Linux  
+
+---
+
+### 🔭 Current Projects  
+- 🕹️ **2D Game Engine** using OpenGL (inspired by Hollow Knight)  
+- 🌍 **Web Proxy** in JavaScript with Caching  
+- 🏗️ **GSAP & THREE.js 3D Web Experience** for Architectural Tech  
+- ⚡ **Custom `printf` Implementation** in C  
+- 📦 **Max Heap Data Structure** in C  
+
+---
+
+### 🌱 Currently Learning  
+- 🔥 Vulkan & Advanced OpenGL Techniques  
+- ⚡ High-Performance Networking & Caching  
+- 🚀 WebAssembly for Performance-Critical Apps  
+
+---
+
+### 🤝 Let's Connect!  
+💬 Always open to discussing OpenGL, game engines, web proxies, or low-level programming!  
+📫 **Reach me at:** [Your Email or Socials]  
+
+---
+
+🛠️ **"Building things from scratch, one pixel at a time."**  
