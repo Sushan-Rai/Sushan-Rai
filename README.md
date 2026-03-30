@@ -4,6 +4,8 @@ Computer Science undergraduate at RV University (CGPA: 9.71)
 Focused on Systems, Backend Engineering, and Graphics Programming  
 Based in Bangalore, India | Open to roles in Network, Embedded, or Application Development
 
+https://sushanrai.vercel.app/
+
 ---
 
 ## About Me
